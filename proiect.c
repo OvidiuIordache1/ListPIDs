@@ -47,7 +47,7 @@ void dfs(pid_t pid, pid_t ppid)
 
 int main(int argc, char **argv)
 {
-	if (atgc == 2)
+	if (argc == 2)
 	{
 		pid_t pid = atoi(argv[1]);
 		dfs(pid, -1);

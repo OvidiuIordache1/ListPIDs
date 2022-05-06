@@ -1,7 +1,7 @@
-# Proiect_SO
+# Proiect Sisteme de Operare
 
-## 3. ListPIDs
- Implementati o functie sistem care sa ofere date (PID, stare, statistici legate de executie etc.) despre toti descendentii unui proces dat. Scrieti programein userland care saa afiseze arborii rezultati folosind noua functie de sistem.
+## ListPIDs
+ Implementati o functie sistem care sa ofere date (PID, stare, statistici legate de executie etc.) despre toti descendentii unui proces dat. Scrieti programe in userland care sa afiseze arborii rezultati folosind noua functie de sistem.
 
 
 Useful Links:
